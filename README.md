@@ -25,11 +25,6 @@
  </a>
 
 </p>
-<br />
-
-<br/>
-<br/>
-<br/>
 
 ## Use To Code
 
@@ -48,18 +43,4 @@
 
 
 
-<br/>
-
-## Top Open Source -
-[![Web Projects](https://github-readme-stats.vercel.app/api/pin/?username=ProXBucky&repo=TheCoffeeHouseBackup&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ProXBucky/TheCoffeeHouseBackup)
-[![PortFolio](https://github-readme-stats.vercel.app/api/pin/?username=ProXBucky&repo=myPortFolio&border_color=7F3FBF&bg_color=0D1117&title_color=C9D1D9&text_color=8B949E&icon_color=7F3FBF)](https://github.com/ProXBucky/myPortFolio)
-
-
-<p align="left">
-  <a href="https://github.com/ProXBucky?tab=repositories" target="_blank"><img alt="All Repositories" title="All Repositories" src="https://img.shields.io/badge/-All%20Repos-2962FF?style=for-the-badge&logo=koding&logoColor=white"/></a>
-</p>
-
-<br/>
-<hr/>
-<br/>
 
